@@ -1,2 +1,0 @@
-# bjornsson.dev
-Test
