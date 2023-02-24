@@ -1,2 +1,2 @@
-# FrejBjornsson.github.io
+# bjornsson.dev
 Portfolio website
